@@ -52,6 +52,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# Compile dir
+bin/
 # https://github.com/nemequ/munit/
 # munit c test module
 munit/
