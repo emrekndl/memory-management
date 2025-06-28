@@ -1,5 +1,7 @@
 **C’de Bellek Yönetimi**
 
+[English](README-EN.md)
+
 Bu depo, bellek yönetiminin temellerini öğrenmek için adım adım C dilinde uygulamalar ve örnekler içeren bir eğitim serisini barındırır. Otomatik bellek yönetimi kullanan yüksek seviye dillerin aksine, bu seride _kendi çöp toplama algoritmalarınızı_ (refcounting ve mark-and-sweep) sıfırdan C ile nasıl inşa edeceğiniz gösterilmektedir.
 
 > Eğitim içeriği boot.dev sitesindeki "Memory Management in C" (TJ DeVries) kursu temel alınarak derlenmiştir.
